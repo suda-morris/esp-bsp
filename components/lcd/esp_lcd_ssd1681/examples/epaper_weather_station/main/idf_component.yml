@@ -1,0 +1,5 @@
+dependencies:
+  lvgl/lvgl: "9.6.0"
+  esp_lcd_ssd1681:
+    version: "*"
+    path: "../../../"
